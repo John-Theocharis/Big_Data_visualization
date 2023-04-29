@@ -18,4 +18,5 @@
 Θα παραδώσετε στο eclass σε ένα συμπιεσμένο αρχείο την αναφορά και την παρουσίασή σας.
 
 Τα αρχεία δεδομένων στη μορφή που θα τα έχετε χρησιμοποιήσει καθώς και τα αρχεία Tableau ή άλλα από τα οποία θα έχουν προκύψει οι οπτικοποιήσεις θα τα ανεβάσετε στον λογαριασμό σας SharePoint ή Google Drive του Πανεπιστημίου, και θα περιλάβετε σχετικό σύνδεσμο στην αναφορά σας.
+
 ![alt text] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.techrepublic.com%2Farticle%2Flearn-visualize-data%2F&psig=AOvVaw2AczScqh2xrnlYu1LEDuYj&ust=1682876994663000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPic_8HTz_4CFQAAAAAdAAAAABAE)
