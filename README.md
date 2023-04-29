@@ -19,4 +19,5 @@
 
 Τα αρχεία δεδομένων στη μορφή που θα τα έχετε χρησιμοποιήσει καθώς και τα αρχεία Tableau ή άλλα από τα οποία θα έχουν προκύψει οι οπτικοποιήσεις θα τα ανεβάσετε στον λογαριασμό σας SharePoint ή Google Drive του Πανεπιστημίου, και θα περιλάβετε σχετικό σύνδεσμο στην αναφορά σας.
 
-![for repo] (https://www.techrepublic.com/wp-content/uploads/2022/09/learn-visualize-data.jpeg)
+
+![learn-visualize-data](https://user-images.githubusercontent.com/118253762/235317514-f0a5054b-2697-487d-92fe-315929c794a9.jpeg)
