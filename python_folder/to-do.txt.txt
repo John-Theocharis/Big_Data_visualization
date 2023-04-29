@@ -1,0 +1,9 @@
+1)    Xls convert to xlsx
+2)    item category merge with item column in all
+3)    keep only data from 2005-2014. Erase 2002-2004.
+4)    status in some files have to be merged with disposition, or keep both and put null in files which donot include status column
+5)    incident date, delete the whole row or convert to null the value, where there is weird format e.g.  01-JUL-0200, needs some trying to make sure there aint remaining corrupted data
+6)    Add columns with data like GDP/capita or county codes based on airport codes from the links above or other links
+7)    We can use the airport code (especially for the spatial visualisation required), the claims, the item category, and date of incident.
+8)    We can create visuals like interactive graphs using year and month (zoom), count claims (value and disposition) per airport, sum approved reimbursement value per airport, denies etc. We can even extract the percentages of reimbursements on total per whatever (item category, airport etc)
+9)    We can aggregate the item category in more comprehensive categories in a new column 
